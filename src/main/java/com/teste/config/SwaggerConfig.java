@@ -38,8 +38,8 @@ public class SwaggerConfig {
 				"Api Rest de cadastro de clientes",
 				"1.0",
 				"Terms of service",
-				new Contact("Jocimar Carvalho", "https://www.youtube.com./jocimarcarvalho",
-						"jocimar720@gmail.com"),
+				new Contact("Thiago Ribeiro", "https://www.youtube.com./thiagoribeiro4187",
+						"thiagoribeiro4187@gmail.com"),
 				"Apache License Version 2.0",
 				"https://www.apache.org/license.html", new ArrayList<VendorExtension>()
 				);
